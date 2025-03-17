@@ -13,8 +13,7 @@ git add .
 git commit -m "%commit_message%"
 
 :: Push to the repository
-git push origin main  :: Change 'main' to your branch name if needed
-
+git push origin main  
 :: Display a success message
 echo.
 echo Code committed and pushed successfully!
