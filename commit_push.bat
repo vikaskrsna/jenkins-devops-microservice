@@ -13,7 +13,7 @@ git add .
 git commit -m "%commit_message%"
 
 :: Push to the repository
-git push origin main  
+git push origin master  
 :: Display a success message
 echo.
 echo Code committed and pushed successfully!
