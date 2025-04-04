@@ -14,7 +14,7 @@ git commit -m "$commit_message"
 git push
 
 # Display a success message
-echo "\nCode committed and pushed successfully!"
+echo "\nCode committed and pushed to master successfully!"
 
 # Pause for user input before closing
 read -p "Press Enter to exit..."
