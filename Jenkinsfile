@@ -12,7 +12,7 @@ pipeline{
 				sh 'node --version'
 				echo "BUILD"
 				echo "PATH - $PATH"
-				echo "BUILD_NUMBER =$env.BUILD_NUMBER
+				echo "BUILD_NUMBER =$env.BUILD_NUMBER"
 				
 			}
 		}
